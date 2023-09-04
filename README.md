@@ -14,7 +14,7 @@ This tutorial outlines the installation of Ubuntu Virtual Machine in a local hos
 
 <h2>Operating Systems Used </h2>
 
-- Ubuntu 22.04</b> (21H2)
+- Ubuntu 22.04</b> 
 
 <h2>List of Prerequisites</h2>
 - Proxmox running in a local host<br>

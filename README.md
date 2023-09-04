@@ -26,7 +26,7 @@ This tutorial outlines the installation of Ubuntu Virtual Machine in a local hos
 <img src="https://imgur.com/ZKM9rdo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Innside proxmox click on Create VM on the top right of the screen
+Inside proxmox click on Create VM on the top right of the screen
 </p>
 <br />
 
